@@ -55,7 +55,6 @@ export default function Hider() {
         elevation={0}
         sx={{ bgcolor: "#fff", borderBottom: "1px solid #e0e0e0" }}>
         <Toolbar sx={{ justifyContent: "space-between", px: { xs: 2, md: 5 }, py: 1 }}>
-       
           <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
             <Box
               sx={{
@@ -261,7 +260,6 @@ export default function Hider() {
 
       {/* FOOTER SECTION */}
       <Footer />
-
     </Box>
   );
 }
