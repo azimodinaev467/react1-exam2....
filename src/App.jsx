@@ -1,4 +1,4 @@
-import Hider from './component/hider';
+import Hider from './component/Hider';
 
 export default function App() {
   return <Hider />;

@@ -24,7 +24,7 @@ import Services from "./Services";
 import CTA from "./CTA";
 import CaseStudies from "./CaseStudies";
 import WorkingProcess from "./WorkingProcess";
-import Team from "./team";
+import Team from "./Team";
 import Testimonials from "./Testimonials";
 import ContactUs from "./ContactUs";
 import UserTable from "./UserTable";
